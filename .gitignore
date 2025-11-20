@@ -1,3 +1,4 @@
 *.html
 !*.html.enc
 .idea
+.DS_Store
